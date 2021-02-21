@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\movie-catalog-service"
+		},
+		{
+			"path": "..\\movie-info-service"
+		},
+		{
+			"path": "..\\ratings-data-service"
+		}
+	]
+}
